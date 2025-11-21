@@ -1,5 +1,5 @@
 <div align="center">
-<pre style="font-family: 'Courier New', monospace; font-size: 12px; color: #0EA5E9; margin: 0; padding: 0; text-shadow: 0 0 10px #0EA5E9, 0 0 20px rgba(14,165,233,0.5); line-height: 1.2; transform: skew(-1deg, 0deg); display: block; text-align: left;">
+  <pre style="display: inline-block; text-align: left; font-family: Menlo, Monaco, 'Courier New', monospace; font-size: 12px; font-weight: bold; color: #0EA5E9; line-height: 1.3; margin: 0; padding: 10px;">
   █████╗ ██╗    ███████╗ ██████╗██╗███████╗███╗   ███╗████████╗██╗███████╗████████╗
  ██╔══██╗██║    ██╔════╝██╔════╝██║██╔════╝████╗  ████║╚══██╔══╝██║██╔════╝╚══██╔══╝
  ███████║██║    ███████╗██║     ██║█████╗  ██╔██╗ ██╔██║   ██║   ██║███████╗   ██║
@@ -12,7 +12,7 @@
  ██╔══╝  ██║     ██║   ██║╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
  ███████╗╚██████╗╚██████╔╝███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║
  ╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
-</pre>
+  </pre>
 </div>
 
 <div align="center">
