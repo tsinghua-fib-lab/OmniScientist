@@ -67,8 +67,9 @@ We currently include seven core papers, covering surveys, benchmarks, core algor
 
 | Paper Title | Description | Link |
 | :--- | :--- | :---: |
-| **OmniScientist: Towards an AI Scientist Ecosystem via Human Research Infrastructure Encoding** | Proposes the grand blueprint of the AI Scientist ecosystem, achieving fully automated scientific research by encoding human research infrastructure. | 🚧 Coming Soon |
-| **MirrorMind: Empowering the OmniScientist with Human Expertise and Collective Knowledge** | Explores how to empower AI scientists with human expert tacit knowledge and collective intelligence to enhance their decision-making capabilities. | 🚧 Coming Soon |
+| **OmniScientist: Toward a Co-evolving Ecosystem of Human and AI Scientists** | Proposes the grand blueprint of the AI Scientist ecosystem, achieving fully automated scientific research by encoding human research infrastructure. | 🚧 Coming Soon |
+| **MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists** | Explores how to empower AI scientists with human expert tacit knowledge and collective intelligence to enhance their decision-making capabilities. | 🚧 Coming Soon |
+| **HybridQuestion: Human–AI Collaboration for Identifying High-Impact Research Questions** | Deeply explores whether AI possesses the ability to identify "meaningful" scientific questions, which is a critical step in scientific discovery. | 🚧 Coming Soon |
 
 ### 🧠 Core Capabilities & Agents
 
@@ -83,7 +84,6 @@ We currently include seven core papers, covering surveys, benchmarks, core algor
 | :--- | :--- | :---: |
 | **A Comprehensive Survey of AI Scientists** | Comprehensively reviews the development history, current status, and future trends of the AI Scientist field. | 🚧 Coming Soon |
 | **Scinetbench: A Relation-Aware Benchmark for Scientific Literature Retrieval Agents** | **[Benchmark]** Proposed a relation-aware benchmark specifically for evaluating the performance of scientific literature retrieval agents. | 🚧 Coming Soon |
-| **Can AI Scientists Identify Meaningful Research Questions?** | Deeply explores whether AI possesses the ability to identify "meaningful" scientific questions, which is a critical step in scientific discovery. | 🚧 Coming Soon |
 
 ---
 
