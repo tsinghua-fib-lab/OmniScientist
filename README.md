@@ -1,5 +1,12 @@
 <div align="center">
-  <pre style="display: inline-block; text-align: left; font-family: Menlo, Monaco, 'Courier New', monospace; font-size: 12px; font-weight: bold; color: #0EA5E9; line-height: 1.3; margin: 0; padding: 10px;">
+
+<table style="border: none; margin: 0 auto; padding: 0; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="vertical-align: middle; padding: 10px 20px 10px 10px; border: none;">
+      <img src="./assets/logo.jpeg" alt="AI Scientist Ecosystem Logo" width="180" style="margin: 0; padding: 0; display: block;"/>
+    </td>
+    <td align="left" style="vertical-align: middle; padding: 10px 0; border: none;">
+<pre style="font-family: 'Courier New', monospace; font-size: 12px; color: #0EA5E9; margin: 0; padding: 0; text-shadow: 0 0 10px #0EA5E9, 0 0 20px rgba(14,165,233,0.5); line-height: 1.2; transform: skew(-1deg, 0deg); display: block; text-align: left; white-space: pre;">
   █████╗ ██╗    ███████╗ ██████╗██╗███████╗███╗   ███╗████████╗██╗███████╗████████╗
  ██╔══██╗██║    ██╔════╝██╔════╝██║██╔════╝████╗  ████║╚══██╔══╝██║██╔════╝╚══██╔══╝
  ███████║██║    ███████╗██║     ██║█████╗  ██╔██╗ ██╔██║   ██║   ██║███████╗   ██║
@@ -12,21 +19,32 @@
  ██╔══╝  ██║     ██║   ██║╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
  ███████╗╚██████╗╚██████╔╝███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║
  ╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
-  </pre>
-</div>
+</pre>
+    </td>
+  </tr>
+</table>
+
+<!-- # 🤖 AI Scientist Ecosystem -->
 
 <div align="center">
 
-# 🤖 AI Scientist Ecosystem
+<a href="https://github.com/FIBLAB/AI-Scientist-Ecosystem">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&height=100&lines=🤖+AI+Scientist+Ecosystem" alt="AI Scientist Ecosystem" />
+</a>
 
-### Towards Fully Automated Open-Ended Scientific Discovery
+<h3 style="margin-top: -10px; font-family: sans-serif; font-weight: bold; color: #0EA5E9;">
+  Towards Fully Automated Open-Ended Scientific Discovery
+</h3>
 
-<p align="center">
+<p align="center" style="margin-top: 15px;">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/Organization-Tsinghua_University-purple.svg" alt="Tsinghua University">
   <img src="https://img.shields.io/badge/Subject-AI_for_Science-blue.svg" alt="AI4Science">
   <img src="https://img.shields.io/badge/Status-Active_Research-orange.svg" alt="Status">
 </p>
+
+</div>
+
 
 </div>
 
