@@ -67,9 +67,9 @@ We currently include seven core papers, covering surveys, benchmarks, core algor
 
 | Paper Title | Description | Link |
 | :--- | :--- | :---: |
-| **OmniScientist: Toward a Co-evolving Ecosystem of Human and AI Scientists** | Proposes the grand blueprint of the AI Scientist ecosystem, achieving fully automated scientific research by encoding human research infrastructure. | 🚧 Coming Soon |
-| **MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists** | Explores how to empower AI scientists with human expert tacit knowledge and collective intelligence to enhance their decision-making capabilities. | 🚧 Coming Soon |
-| **HybridQuestion: Human–AI Collaboration for Identifying High-Impact Research Questions** | Deeply explores whether AI possesses the ability to identify "meaningful" scientific questions, which is a critical step in scientific discovery. | 🚧 Coming Soon |
+| **OmniScientist: Toward a Co-evolving Ecosystem of Human and AI Scientists** | Proposes the grand blueprint of the AI Scientist ecosystem, achieving fully automated scientific research by encoding human research infrastructure. | [Paper](./papers/OmniScientist.pdf) |
+| **MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists** | Explores how to empower AI scientists with human expert tacit knowledge and collective intelligence to enhance their decision-making capabilities. | [Paper](./papers/MirrorMind.pdf) |
+| **HybridQuestion: Human–AI Collaboration for Identifying High-Impact Research Questions** | Deeply explores whether AI possesses the ability to identify "meaningful" scientific questions, which is a critical step in scientific discovery. | [Paper](./papers/HybridQuestion.pdf) |
 
 ### 🧠 Core Capabilities & Agents
 
