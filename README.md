@@ -55,9 +55,7 @@ Our vision is to build a comprehensive ecosystem named **OmniScientist**, enabli
 
 ---
 
-https://github.com/user-attachments/assets/71a6cc01-2899-4064-a396-f4a17b208c7a
-
-
+https://github.com/user-attachments/assets/83ce229b-03d1-4eec-a84d-4d0203dd18a3
 
 ## 📝 Paper Collection
 
