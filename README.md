@@ -65,8 +65,8 @@ We currently include seven core papers, covering surveys, benchmarks, core algor
 
 | Paper Title | Description | Link |
 | :--- | :--- | :---: |
-| **OmniScientist: Toward a Co-evolving Ecosystem of Human and AI Scientists** | Proposes the grand blueprint of the AI Scientist ecosystem, achieving fully automated scientific research by encoding human research infrastructure. | [Paper](./papers/OmniScientist.pdf) |
-| **MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists** | Explores how to empower AI scientists with human expert tacit knowledge and collective intelligence to enhance their decision-making capabilities. | [Paper](./papers/MirrorMind.pdf) |
+| **OmniScientist: Toward a Co-evolving Ecosystem of Human and AI Scientists** | Proposes the grand blueprint of the AI Scientist ecosystem, achieving fully automated scientific research by encoding human research infrastructure. | [![arXiv](https://img.shields.io/badge/arXiv-2511.02238-b31b1b.svg)](https://arxiv.org/abs/2511.16931) |
+| **MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists** | Explores how to empower AI scientists with human expert tacit knowledge and collective intelligence to enhance their decision-making capabilities. | [![arXiv](https://img.shields.io/badge/arXiv-2511.02238-b31b1b.svg)](https://arxiv.org/abs/2511.16997) |
 | **HybridQuestion: Human–AI Collaboration for Identifying High-Impact Research Questions** | Deeply explores whether AI possesses the ability to identify "meaningful" scientific questions, which is a critical step in scientific discovery. | [Paper](./papers/HybridQuestion.pdf) |
 
 ### 🧠 Core Capabilities & Agents
@@ -87,6 +87,8 @@ We currently include seven core papers, covering surveys, benchmarks, core algor
 
 ## 🚀 News & Updates
 
+*   **[2025.11]** 🎉 **OmniScientist** released on arXiv, proposing the blueprint for a co-evolving ecosystem toward fully automated scientific research. 
+*   **[2025.11]** 🎉 **MirrorMind** released on arXiv, empowering AI scientists with expert perspectives to enhance decision-making capabilities.
 *   **[2025.11]** 🎉 **AgentExpt** released on arXiv, showcasing the latest results in automated experiment design.
 *   **[2025.11]** 🎉 **Deep Ideation** released on arXiv, exploring the potential of AI in scientific idea generation.
 *   **[2025.10]** Project officially launched, establishing the five core research directions of the OmniScientist ecosystem.
@@ -95,12 +97,25 @@ We currently include seven core papers, covering surveys, benchmarks, core algor
 
 ## 🔬 Highlights
 
-### 1. Deep Ideation: Automated Generation of Scientific Ideas
+### 1. OmniScientist: The Co-evolving Research Ecosystem
+
+> *Toward a Co-evolving Ecosystem of Human and AI Scientists*
+
+**OmniScientist** proposes a grand blueprint for the future of scientific discovery, aiming to achieve fully automated research. By encoding the complex infrastructure of human research into machine-understandable formats, it establishes a co-evolving ecosystem where human and AI scientists collaborate, significantly accelerating the research lifecycle.
+
+### 2. MirrorMind: Infusing Human Expert Intuition
+
+> *Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists*
+
+**MirrorMind** focuses on enhancing the cognitive depth of AI researchers. It empowers AI scientists by integrating the "tacit knowledge" and collective intelligence of human experts. This approach enables the AI to move beyond simple data processing, improving its decision-making capabilities and allowing for more nuanced scientific judgments.
+
+### 3. Deep Ideation: Automated Generation of Scientific Ideas
+
 > *Designing LLM Agents to Generate Novel Research Ideas on Scientific Concept Network*
 
 In scientific research, coming up with good ideas is often the most challenging step. **Deep Ideation** generates innovative research hypotheses by building a scientific concept network and using Large Language Models (LLMs) to establish new connections between concepts.
 
-### 2. AgentExpt: Intelligent Experiment Design
+### 4. AgentExpt: Intelligent Experiment Design
 > *Automating AI Experiment Design with LLM-based Resource Retrieval Agent*
 
 **AgentExpt** addresses the challenge of translating abstract research ideas into concrete experimental steps. By introducing a resource retrieval agent, the system can automatically find available codebases, datasets, and tools based on research goals, and design executable experimental plans.
