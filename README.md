@@ -49,7 +49,7 @@
 
 ## 📖 Introduction
 
-Welcome to the **AI Scientist Ecosystem** project. This project is initiated by **FIB LAB, Tsinghua University**, dedicated to exploring and building the next generation of Artificial Intelligence Scientist systems.
+Welcome to the **AI Scientist Ecosystem** project. This project is initiated by **FIB LAB, Tsinghua University** and **Zhongguancun Academy**, dedicated to exploring and building the next generation of Artificial Intelligence Scientist systems.
 
 Our vision is to build a comprehensive ecosystem named **OmniScientist**, enabling AI to possess full-process scientific research capabilities like human scientists, ranging from idea generation and literature review to experiment design and paper writing. This repository collects a series of our core papers and research results surrounding this vision.
 
