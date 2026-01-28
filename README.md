@@ -32,16 +32,14 @@
 <div align="center">
   <img src="./assets/logo.jpeg" alt="AI Scientist Ecosystem Logo" width="250"/>
 </div>
-
 <p align="center" style="margin-top: 15px;">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
-  <img src="https://img.shields.io/badge/Organization-Tsinghua_University-purple.svg" alt="Tsinghua University">
+  <img src="https://img.shields.io/badge/Organization-Tsinghua_%26_Zhongguancun-purple.svg" alt="Tsinghua & Zhongguancun Academy">
   <img src="https://img.shields.io/badge/Subject-AI_for_Science-blue.svg" alt="AI4Science">
   <img src="https://img.shields.io/badge/Status-Active_Research-orange.svg" alt="Status">
 </p>
 
 </div>
-
 
 </div>
 
